@@ -23,8 +23,8 @@ You can issue pull requests, and I will make sure to integrate them if they make
   
 * How to read the model files
   - [xivp/mdl](https://github.com/ahom/ffxiv_reverse/tree/master/xivp/mdl)
-  - This is what has been used for (http://xivmodels.com/)[http://xivmodels.com/]
-  - Note that there are links between material/shader files (in addition to variable matrices) and one could use that to display models more accurately, but as xivmodels is powered by WebGL, the DirectX ones where not that useful to me.
+  - This is what has been used for [xivmodels.com](http://xivmodels.com)
+  - Note that there are links between material/shader files (in addition to variable matrices) and one could use that to display models more accurately, but as xivmodels is powered by WebGL, the DirectX ones were not that useful to me.
 
 ## Author
 
